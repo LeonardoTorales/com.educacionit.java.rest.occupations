@@ -1,2 +1,2 @@
-# com.educacionit.java.rest.cryptocurrencies
-Java Web Services (Restful)  for management information about cryptocurrencies. Made using Spring Boot, Docker and Mongodb.
+# com.educacionit.java.rest.occupations
+Java Web Services (Restful)  for management information about occupations. Made using Spring Boot, Docker and Mongodb.
